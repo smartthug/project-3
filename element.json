@@ -1,0 +1,57 @@
+{
+  "hero": {
+    "headline": "The Future of Smart Software Solutions",
+    "subheadline": " Welcome to Techky, where cutting-edge technology meets intuitive design. Whether you're managing projects or optimizing workflows, Techky provides the tools to innovate and excel in a rapidly evolving landscape.",
+    "ctaButtons": [
+      {
+        "text": "Download Now",
+        "link": "/download"
+      },
+      {
+        "text": "Learn More",
+        "link": "#features"
+      }
+    ]
+  },
+  "features": [
+    {
+      "title": "Customizable Workflow Automation",
+      "description": "Automate repetitive tasks and processes with customizable workflows, reducing manual effort and improving efficiency.",
+      "icon": "./images/featureliststar.svg"
+    },
+    {
+      "title": "Intuitive User Interface",
+      "description": " A clean, user-friendly interface designed for ease of use, making it accessible to users of all skill levels.",
+      "icon": "./images/featurelistcube.svg"
+    },
+    {
+      "title": "Advanced Data Analytics",
+      "description": "Powerful data analytics tools that provide insights through visual dashboards, real-time reporting, and predictive analytics",
+      "icon": "./images/featurelistcubetwo.svg"
+    }
+  ],
+  "testimonials": [
+    {
+      "name": "User One",
+      "feedback": "This app is fantastic! It has changed my life.",
+      "avatar": "https://via.placeholder.com/50"
+    },
+    {
+      "name": "User Two",
+      "feedback": "I can't imagine my daily routine without this app.",
+      "avatar": "https://via.placeholder.com/50"
+    }
+  ],
+  "pricing": [
+    {
+      "plan": "Basic",
+      "price": "$9.99/month",
+      "features": ["Feature A", "Feature B", "Feature C"]
+    },
+    {
+      "plan": "Premium",
+      "price": "$19.99/month",
+      "features": ["Feature A", "Feature B", "Feature C", "Feature D"]
+    }
+  ]
+}
